@@ -23,7 +23,7 @@ const { useState, useEffect } = React;
                 {
                     id: 1,
                     name: "Základní",
-                    price: "500 Kč",
+                    price: "499 Kč",
                     features: [
                         "Přístup k základním kurzům",
                         "Komunitní fórum",
