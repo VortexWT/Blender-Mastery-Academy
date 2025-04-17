@@ -1,14 +1,15 @@
 :root {
-    --primary: #ffae00;
+    --primary: #ff9100;
     --secondary: #3d2f1e;
     --dark: #1a1a1a;
     --success: #28a745;
     --accent: #2200ff;
-    --highlight: #ff1111;
-    --price: #e7bd02;
+    --highlight: #f30101;
+    --price: #f5c800;
     --blue: #3df2ff;
     --darkblue: #6f00ff;
-    --login: #ffbb00;
+    --login: #ecb70b;
+    --button: #f17713;
 }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -62,7 +63,7 @@ body {
     color: var(--highlight);
 }
 .cta-button {
-    background: linear-gradient(to right, var(--primary), var(--accent));
+    background: linear-gradient(to right, var(--accent), var(--button));
     color: white;
     border: none;
     padding: 10px 20px;
