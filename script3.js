@@ -598,15 +598,15 @@ const { useState, useEffect } = React;
                                 <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" alt="Unlock Learning" className="cta-image" />
                                 <div className="stats">
                                     <div className="stat-item">
-                                        <div className="stat-number">10,000+</div>
+                                        <div className="stat-number">100+</div>
                                         <p>Spokojených studentů</p>
                                     </div>
                                     <div className="stat-item">
-                                        <div className="stat-number">500+</div>
+                                        <div className="stat-number">50+</div>
                                         <p>Hodin kurzů</p>
                                     </div>
                                     <div className="stat-item">
-                                        <div className="stat-number">95%</div>
+                                        <div className="stat-number">92%</div>
                                         <p>Úspěšnost absolventů</p>
                                     </div>
                                 </div>
